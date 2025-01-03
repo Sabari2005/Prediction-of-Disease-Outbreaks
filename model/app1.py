@@ -10,9 +10,9 @@ def load_model(file_path):
         return pickle.load(file)
 
 # Load trained models
-diabetes_model = load_model('diabetes_model.pkl')
-heart_disease_model = load_model('heart_disease_model.pkl')
-parkinsons_model = load_model('parkinsons_disease_model.pkl')
+diabetes_model = load_model('model/diabetes_model.pkl')
+heart_disease_model = load_model('model/heart_disease_model.pkl')
+parkinsons_model = load_model('model/parkinsons_disease_model.pkl')
 
 # Prediction functions
 def predict_diabetes(inputs):
