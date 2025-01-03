@@ -120,7 +120,7 @@ classification algorithms to achieve high prediction accuracy.
 
 ## Demo 
 
-- Click [here](./assets/videos/demo.mp4) to see the live stream
+- Click [here](https://prediction-of-disease-outbreaks-sabari-vadivelan-s.streamlit.app/) to see the live stream
 
 
 ## Author
