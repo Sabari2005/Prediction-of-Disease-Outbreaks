@@ -1,0 +1,6 @@
+streamlit
+groq
+numpy
+pickle-mixin
+
+

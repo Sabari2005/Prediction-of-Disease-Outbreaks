@@ -1,4 +1,0 @@
-streamlit==1.18.0
-numpy==1.23.1
-pickle-mixin==1.0.2
-groq==0.1.4
