@@ -1,2 +1,4 @@
+streamlit
+numpy
+pickle-mixin
 groq
-scikit-learn scipy matplotlib
