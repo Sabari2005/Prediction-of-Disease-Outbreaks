@@ -1,1 +1,2 @@
 groq
+scikit-learn scipy matplotlib
