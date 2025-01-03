@@ -125,5 +125,5 @@ classification algorithms to achieve high prediction accuracy.
 
 ## Author
 
-- Sabari Vadivelan S (Team Leader) - Contact Gmail [sabari132005@gmail.com]()
+- Sabari Vadivelan S - Contact Gmail [sabari132005@gmail.com]()
 
