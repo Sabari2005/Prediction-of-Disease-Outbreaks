@@ -118,9 +118,9 @@ classification algorithms to achieve high prediction accuracy.
     <img src="./screenshots/web5.png">
 
 
-## Demo 
+## Deployed on streamlit
 
-- Click [here](https://prediction-of-disease-outbreaks-sabari-vadivelan-s.streamlit.app/) to see the live stream
+- Click [here](https://prediction-of-disease-outbreaks-sabari-vadivelan-s.streamlit.app/) to see the live stream of the app and you can interact with the app
 
 
 ## Author
